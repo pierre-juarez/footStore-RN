@@ -1,0 +1,22 @@
+[
+  {
+    "id": "4617098c-973a-413e-8cf9-eda19b186b63",
+    "email": "admin@footstore.com",
+    "fullname": "Pierre Juarez",
+    "password": "admin123",
+    "dni": "012934403",
+    "role": "admin",
+    "gender": "male",
+    "active": true
+  },
+  {
+    "id": "7ffbf273-cc9c-42d0-823c-06e553df6574",
+    "email": "asesor@footstore.com",
+    "fullname": "Juanito Alcachofa",
+    "password": "asesor123",
+    "dni": "012934403",
+    "role": "asesor",
+    "gender": "male",
+    "active": true
+  }
+]
